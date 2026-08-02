@@ -29,6 +29,26 @@ Drive Mode lets you move a car around the map like a simple driving game:
 
 As you drive around, nearby places pop up automatically — just like dropping a pin, but discovered as you go.
 
+## Choose Your Vehicle
+
+Pick your ride before you explore — Travibe includes several vehicle types to drive around the map:
+
+- Hatchback
+- Convertible
+- Camper Van
+- Coupé
+- Pickup
+- Scooter
+
+## Ticket
+
+As you explore and visit places, you get a ticket that gets stamped — a small memento of where you've been on your journey.
+
+## Music Deck
+
+- **Open in Spotify** — Every song shown has an "open in Spotify" option, so you can jump straight to searching that track on Spotify if you want to hear it there.
+- **Your Travibe Playlist** — Like a song and it gets added to your own Travibe playlist, which you can open anytime to revisit everything you've saved while exploring.
+
 ## The fun part
 
 The AI guide dresses in the traditional clothing of whatever country or region you're currently exploring — a small, playful detail that makes each destination feel distinct as you move around the map.
