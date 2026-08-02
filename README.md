@@ -2,6 +2,8 @@
 
 Travibe is a travel exploration app that pairs music with discovery. Instead of just showing you a map, it turns exploring a new destination into an experience — play music that matches the vibe of a place while browsing an interactive map to find spots you didn't know existed.
 
+## Meaning of "travibe"
+its a combination of travel+vibes It captures the core idea of your app pretty well — it's not just about navigating a map to get from place to place, it's about the vibe of traveling: the music, the mood, the feeling of discovering somewhere new. The name basically promises "travel with a vibe to it,
 ## What it does
 
 - **Explore new places** — Discover destinations you've never been to through an interactive map interface.
